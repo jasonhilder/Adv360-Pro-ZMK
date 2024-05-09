@@ -2,25 +2,25 @@ macro_workspace4: macro_workspace4{
 compatible = "zmk,behavior-macro";
 label = "macro_workspace4";
 #binding-cells = <0>;
-bindings = <&sk LEFT_WIN>, <&kp O>;
+bindings = <&sk LEFT_ALT>, <&kp O>;
 };
 macro_workspace3: macro_workspace3{
 compatible = "zmk,behavior-macro";
 label = "macro_workspace3";
 #binding-cells = <0>;
-bindings = <&sk LEFT_WIN>, <&kp E>;
+bindings = <&sk LEFT_ALT>, <&kp E>;
 };
 macro_workspace2: macro_workspace2{
 compatible = "zmk,behavior-macro";
 label = "macro_workspace2";
 #binding-cells = <0>;
-bindings = <&sk LEFT_WIN>, <&kp W>;
+bindings = <&sk LEFT_ALT>, <&kp W>;
 };
 macro_workspace1: macro_workspace1{
 compatible = "zmk,behavior-macro";
 label = "macro_workspace1";
 #binding-cells = <0>;
-bindings = <&sk LEFT_WIN>, <&kp Q>;
+bindings = <&sk LEFT_ALT>, <&kp Q>;
 };
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
