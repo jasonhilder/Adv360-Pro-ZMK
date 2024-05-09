@@ -60,11 +60,11 @@
 
         layer_fn {
             bindings = <
-      &kp EQUAL   &kp EXCL                &kp AT               &kp HASH      &kp DOLLAR      &kp PERCENT               &tog 1                                                     &mo 3   &kp CARET              &kp AMPS               &kp STAR  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS       &kp MINUS
-        &kp TAB     &trans     &kp DOUBLE_QUOTES       &kp SINGLE_QUOTE          &trans           &trans                &none                                                     &none      &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS                &trans                 &trans        &kp BSLH
-        &kp ESC     &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACE  &kp RIGHT_BRACE                &none  &trans  &trans                  &trans  &trans     &none    &kp LEFT              &kp DOWN                 &kp UP             &kp RIGHT               &kp SEMI         &kp SQT
- &kp LEFT_SHIFT     &trans      &kp LEFT_BRACKET      &kp RIGHT_BRACKET          &trans          &kp SQT                               &trans                  &trans                    &kp PERIOD      &kp LEFT_BRACKET      &kp RIGHT_BRACKET               &kp DOT               &kp FSLH  &kp LEFT_SHIFT
-         &trans  &kp GRAVE                &trans                 &trans          &trans                             &kp SPACE  &trans  &trans                  &trans   &mo 4  &kp BSPC                         &kp COLON                 &trans                &trans                 &trans          &trans
+      &kp EQUAL   &kp EXCL                &kp AT               &kp HASH      &kp DOLLAR      &kp PERCENT               &tog 1                                                     &mo 3       &kp CARET              &kp AMPS               &kp STAR  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS       &kp MINUS
+        &kp TAB     &trans     &kp DOUBLE_QUOTES       &kp SINGLE_QUOTE          &trans           &trans                &none                                                     &none          &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS                &trans                 &trans        &kp BSLH
+        &kp ESC     &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACE  &kp RIGHT_BRACE                &none  &trans  &trans                  &trans  &trans     &none        &kp LEFT              &kp DOWN                 &kp UP             &kp RIGHT               &kp SEMI         &kp SQT
+ &kp LEFT_SHIFT     &trans      &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp UNDERSCORE        &kp MINUS                               &trans                  &trans                    &kp UNDERSCORE      &kp LEFT_BRACKET      &kp RIGHT_BRACKET               &kp DOT               &kp FSLH  &kp LEFT_SHIFT
+         &trans  &kp GRAVE                &trans                 &trans          &trans                             &kp SPACE  &trans  &trans                  &trans   &mo 4  &kp BSPC                             &kp COLON                 &trans                &trans                 &trans          &trans
             >;
         };
 
